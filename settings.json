@@ -1,0 +1,16 @@
+{
+  "fps": 240,
+  "colors": [
+    [ 1, 0, 0, 1 ],
+    [ 1, 1, 0, 1 ],
+    [ 0, 1, 0, 1 ],
+    [ 0, 1, 1, 1 ],
+    [ 0, 0, 1, 1 ],
+    [ 1, 0, 1, 1 ]
+  ],
+  "color-speed": 0.7,
+  "iteration-limit": 12,
+  "distance-interval-factor": 0.85,
+  "border-width": 4.0,
+  "background-color": [ 0, 0, 0, 1 ]
+}
